@@ -27,6 +27,8 @@ I build real-time, multi-tenant web apps end to end — database schema, API lay
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
 [![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
+[![PandaCSS](https://skillicons.dev/icons?i=panda)](https://panda-css.com)
+[![ArkUI](https://skillicons.dev/icons?i=ark)](https://ark-ui.com)
 
 ## Recently shipped
 
