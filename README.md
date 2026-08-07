@@ -30,8 +30,7 @@ I build real-time, multi-tenant web apps end to end — database schema, API lay
 
 ## Recently shipped
 
-- **Aug 2026** — remult-partykit v1.2: single-socket realtime transport, storage rooms, Svelte 5 integration (open source)
-- **Jun 2026** — single-socket realtime transport for scintilla: per-page WebSocket, per-channel authorization, remote subscriptions
+- **Aug 2026** — remult-partykit v1.2 (open source): single-socket realtime transport — per-page WebSocket, per-channel authorization, remote subscriptions — plus storage rooms and Svelte 5 integration
 - **2026** — perlabrazilor.com moved from VPS to Cloudflare; near-zero hosting cost, faster loads
 
 ## Contact
