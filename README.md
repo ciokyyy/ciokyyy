@@ -8,7 +8,7 @@
 
 ## About
 
-I build real-time, multi-tenant web apps end to end — database schema, API layer, UI, deployment — with SvelteKit 5, TypeScript, Remult, and Cloudflare. I'm finishing a BSc in Accounting & Computer Science (2026) while shipping a production multi-language guest-house site ([perlabrazilor.com](https://perlabrazilor.com)) and a B2B realtime chat/audio platform. I previously led development for a 15-person university team, owning the repository and deployments. Looking for junior fullstack roles, remote-friendly.
+I build real-time, multi-tenant web apps end to end — database schema, API layer, UI, deployment — with SvelteKit 5, TypeScript, Remult, and Cloudflare. I'm finishing a BSc in Accounting & Computer Science (2026) while shipping the production website for [Perla Brazilor](https://perlabrazilor.com), a guest house in Bucovina, and building a B2B realtime chat/audio platform. I previously led development for a 15-person university team, owning the repository and deployments. Looking for junior fullstack roles, remote-friendly.
 
 ## Skills
 
@@ -27,7 +27,7 @@ Grew business income 20–30% through channel management, dynamic pricing, and w
 
 ## Selected projects
 
-- **[perlabrazilor.com](https://perlabrazilor.com)** — Production multi-language guest-house site (RO/IT/EN): rooms, live availability, direct booking, SEO. Designed, built, and deployed end to end on Cloudflare.
+- **[Perla Brazilor](https://perlabrazilor.com)** — Production multi-language guest-house website (RO/IT/EN): rooms, live availability, direct booking, SEO. Designed, built, and deployed end to end on Cloudflare.
 - **[remult-partykit](https://github.com/ciokyyy/remult-partykit)** — Open-source realtime engine for Remult: single-socket transport, per-channel Durable Object authorization, Svelte 5 integration.
 - **[licenta](https://github.com/ciokyyy/licenta)** — Bachelor's thesis: real-time collaborative prompt-engineering platform with CRDT co-editing and multi-provider LLM testing (Next.js 16 + Convex).
 - **[weather-app](https://github.com/ciokyyy/weather-app)** — SvelteKit 5 weather app: typed OpenWeather client, Hono + Valibot API proxy, interactive MapLibre map, streaming AI chat.
