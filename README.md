@@ -38,4 +38,4 @@ I build real-time, multi-tenant web apps end to end — database schema, API lay
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-ciocan.sebastian45%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ciocan.sebastian45@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sebastian-ciocan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ciocan-a5aa5138b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sebastian--ciocan-0077B5?style=flat-square)](https://www.linkedin.com/in/sebastian-ciocan-a5aa5138b/)
