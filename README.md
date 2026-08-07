@@ -48,6 +48,7 @@ Grew business income 20–30% through channel management, dynamic pricing, and w
   <summary>Certifications & achievements</summary>
 
 - Cambridge English — C1 certificate
+- 2nd place, French game-building competition (high school, team of 4) — Unity game, wrote all the game logic
 - Bachelor's thesis: real-time collaborative AI platform (CRDT co-editing, multi-provider LLM testing)
 - Open source: remult-partykit published to npm; contributor to the Ripple TS framework
 - Led a 15-person university development team (repository management, Coolify deployments)
