@@ -1,42 +1,40 @@
 # Sebastian Ciocan
 
-**Fullstack Web Developer** — SvelteKit · TypeScript · Cloudflare
+<div align="center">
 
-I build real-time, multi-tenant web apps end to end: database schema, API layer, UI, deployment. Currently finishing my BSc in Accounting & Computer Science (2026) while running a production guest-house website and a B2B realtime platform.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;SvelteKit+%C2%B7+TypeScript+%C2%B7+Cloudflare;Real-time+multi-tenant+web+apps;Open+source%3A+remult-partykit&font=Fira+Code&size=20&color=2E86AB&vCenter=true&width=520&height=50)](https://github.com/DenverCoder1/readme-typing-svg)
 
-- **Shipped in production** — [perlabrazilor.com](https://perlabrazilor.com): multi-language booking site (Next.js 16 + OpenNext on Cloudflare), migrated from a VPS to Cloudflare for near-zero cost
-- **Lead developer & DevOps** on a 15-person university project — managed the GitHub repo and Coolify deployments
-- **Open source** — realtime Remult engine, Svelte 5 reactive stores, SvelteKit scaffolds
-- **Current focus** — SvelteKit 5 + Remult + Better Auth on Cloudflare Workers/D1, single-socket realtime transports
+</div>
 
-## Stack
+I build real-time, multi-tenant web apps end to end — database schema, API layer, UI, deployment — with SvelteKit 5, TypeScript, Remult, and Cloudflare.
 
-![SvelteKit](https://img.shields.io/badge/SvelteKit-5-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Remult](https://img.shields.io/badge/Remult-5A67D8?style=flat-square)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-E148FF?style=flat-square)
+**Currently:** finishing my BSc in Accounting & Computer Science (2026) · building a B2B realtime chat/audio platform · open-sourcing my realtime engine · looking for junior fullstack roles (remote-friendly)
 
 ## Featured projects
 
-| Project | What it is |
-|---|---|
-| [remult-partykit](https://github.com/ciokyyy/remult-partykit) | Realtime engine for Remult on Cloudflare Durable Objects — single-socket transport, per-channel authorization, Svelte 5 integration. Framework-agnostic core. |
-| [perlabrazilor.com](https://perlabrazilor.com) | Production multi-language guest-house website: rooms, live availability, direct booking, SEO. Deployed end to end. |
-| [sveltekit-stack-scaffold](https://github.com/ciokyyy/sveltekit-stack-scaffold) | Starting point for SvelteKit 5 + Remult + Better Auth + Cloudflare D1 apps. |
-| [remult-reactive-store](https://github.com/ciokyyy/remult-reactive-store) | Svelte 5 reactive stores for Remult — optimistic mutations, live queries, SSR-safe (121 tests). |
-| [vike-ripple](https://github.com/ciokyyy/vike-ripple) | Monorepo: Vike SSR integration for the Ripple TS framework + Remult realtime packages. |
-| [licenta](https://github.com/ciokyyy/licenta) | Thesis: real-time collaborative prompt-engineering platform with CRDT co-editing and multi-provider LLM testing. |
+| Project | What it is | Stack |
+|---|---|---|
+| [perlabrazilor.com](https://perlabrazilor.com) | Production multi-language guest-house site: rooms, live availability, direct booking, SEO — shipped end to end | Next.js 16, OpenNext, Cloudflare |
+| [remult-partykit](https://github.com/ciokyyy/remult-partykit) | Realtime engine for Remult: single-socket transport, per-channel Durable Object authorization, Svelte 5 integration | Cloudflare DO, PartyServer, Remult |
+| [licenta](https://github.com/ciokyyy/licenta) | Thesis: real-time collaborative prompt-engineering platform with CRDT co-editing and multi-provider LLM testing | Next.js 16, Convex, Better Auth |
+| [sveltekit-stack-scaffold](https://github.com/ciokyyy/sveltekit-stack-scaffold) | Clean starting point for SvelteKit 5 + Remult + Better Auth + Cloudflare D1 apps | SvelteKit 5, Remult, D1 |
 
-## GitHub stats
+## Core stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ciokyyy&show_icons=true&hide_title=true&count_private=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciokyyy&layout=compact&hide_title=true&theme=transparent)
+[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
+[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
+
+## Recently shipped
+
+- **Aug 2026** — remult-partykit v1.2: single-socket realtime transport, storage rooms, Svelte 5 integration (open source)
+- **Jun 2026** — single-socket realtime transport for scintilla: per-page WebSocket, per-channel authorization, remote subscriptions
+- **2026** — perlabrazilor.com moved from VPS to Cloudflare; near-zero hosting cost, faster loads
 
 ## Contact
 
-- Email: [ciocan.sebastian45@gmail.com](mailto:ciocan.sebastian45@gmail.com)
-- LinkedIn: [sebastian-ciocan](https://www.linkedin.com/in/sebastian-ciocan-a5aa5138b/)
+[![Email](https://img.shields.io/badge/Email-ciocan.sebastian45%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ciocan.sebastian45@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sebastian-ciocan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ciocan-a5aa5138b/)
