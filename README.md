@@ -54,13 +54,6 @@ Grew business income 20–30% through channel management, dynamic pricing, and w
 
 </details>
 
-<details>
-  <summary>GitHub stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ciokyyy&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciokyyy&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</details>
-
 ## Contact
 
 - Email: [ciocan.sebastian45@gmail.com](mailto:ciocan.sebastian45@gmail.com)
