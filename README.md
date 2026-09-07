@@ -1,6 +1,6 @@
 # Sebastian Ciocan
 
-**Fullstack Web Developer** — SvelteKit · TypeScript · Cloudflare · Romania
+**Fullstack & React Developer** — TypeScript · React · SvelteKit · Cloudflare · Romania
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/sebastian-ciocan-a5aa5138b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square)](mailto:ciocan.sebastian45@gmail.com)
@@ -8,50 +8,57 @@
 
 ## About
 
-I build real-time, multi-tenant web apps end to end — database schema, API layer, UI, deployment — with SvelteKit 5, TypeScript, Remult, and Cloudflare. I'm finishing a BSc in Accounting & Computer Science (2026) while shipping the production website for [Perla Brazilor](https://perlabrazilor.com), a guest house in Bucovina, and building a B2B realtime chat/audio platform. I previously led development for a 15-person university team, owning the repository and deployments. Looking for junior fullstack roles, remote-friendly.
+I build real-time, responsive web applications end to end — database schema, API layer, UI, and edge deployments — using TypeScript, React, Next.js 16, SvelteKit 5, and Cloudflare. I hold a BSc in Accounting & Computer Science (thesis graded 10/10), bridging frontend engineering with domain understanding of financial ledgers, auditing, and transactional integrity. 
+
+Shipped and maintain the production platform for [Perla Brazilor](https://perlabrazilor.com) on Cloudflare. Previously led a 15-person university engineering team, governing repository standards, code reviews, and CI/CD deployments.
+
+**Status:** Open to junior fullstack and React developer roles (remote-first, EMEA).
 
 ## Skills
 
-- **Languages:** TypeScript, JavaScript, SQL
-- **Frameworks:** SvelteKit 5, Next.js 16, React, Remult, Tailwind CSS, Ark UI, Panda CSS
-- **Data & realtime:** Cloudflare D1, Durable Objects, Convex, PartyServer, Drizzle ORM
-- **Cloud & tools:** Cloudflare Workers, OpenNext, Bun, Docker, Coolify, Vite, Git
+- **Languages:** TypeScript, JavaScript, SQL, HTML5/CSS3
+- **Frontend:** React, Next.js 16, SvelteKit 5, Tailwind CSS, Ark UI, Panda CSS, Web App standards
+- **Architecture & Realtime:** Reactive programming (stores, optimistic UI), OOP design, WebSockets, Cloudflare Durable Objects, PartyServer, Convex, CRDTs (Yjs)
+- **Backend & Data:** Node.js, Remult, Cloudflare D1 (SQL), Drizzle ORM, RESTful API design & integration
+- **DevOps & Tools:** Cloudflare Workers, OpenNext, Docker, Coolify, Bun, Vite, Git/GitHub (branching, PR reviews)
 
 ## Experience
 
 | Role | Organization | When |
 |---|---|---|
-| Sales Manager (part-time, hybrid) | SC GORIOAN PROD COM SRL | Mar 2024 – Present |
+| Sales Manager & Web Developer (part-time) | SC GORIOAN PROD COM SRL | Mar 2024 – Present |
 
-Grew business income 20–30% through channel management, dynamic pricing, and website/SEO improvements.
+Administered business financial operations (invoicing, payments, fiscal compliance). Engineered and deployed the guest house production web portal and dynamic pricing system on Cloudflare, lifting direct revenue.
 
 ## Selected projects
 
-- **[Perla Brazilor](https://perlabrazilor.com)** — Production multi-language guest-house website (RO/IT/EN): rooms, live availability, direct booking, SEO. Designed, built, and deployed end to end on Cloudflare.
-- **[remult-partykit](https://github.com/ciokyyy/remult-partykit)** — Open-source realtime engine for Remult: single-socket transport, per-channel Durable Object authorization, Svelte 5 integration.
-- **[licenta](https://github.com/ciokyyy/licenta)** — Bachelor's thesis: real-time collaborative prompt-engineering platform with CRDT co-editing and multi-provider LLM testing (Next.js 16 + Convex).
-- **[weather-app](https://github.com/ciokyyy/weather-app)** — SvelteKit 5 weather app: typed OpenWeather client, Hono + Valibot API proxy, interactive MapLibre map, streaming AI chat.
-- **[skill-exchange](https://github.com/ciokyyy/skill-exchange)** — University project with a team of 15 (I led development and DevOps): swipe matching, AI-scored recommendations, realtime chat on Convex.
+- **[Licenta (Stratum Live)](https://github.com/ciokyyy/licenta)** — Real-time collaborative prompt-engineering platform: CRDT co-editing (Yjs), version branching, granular RBAC permissions, and client-side encrypted BYOK key management (React 19 + Next.js 16 + Convex). Thesis graded 10/10.
+- **[Perla Brazilor](https://perlabrazilor.com)** — Production multi-language guest-house web app: live room availability via external RESTful API, direct booking funnel, and international SEO. Migrated from VPS to Cloudflare with sub-second load times and zero hosting overhead.
+- **[remult-reactive-store](https://github.com/ciokyyy/remult-reactive-store)** — Open-source reactive state management library for Remult: optimistic mutations, live query subscriptions, and 121 automated unit tests ensuring regression-free reliability.
+- **[remult-partykit](https://github.com/ciokyyy/remult-partykit)** — Open-source realtime engine published to npm: single-socket WebSocket transport, per-channel Durable Object authorization, and Svelte 5 runes integration.
+- **[Skill Exchange](https://github.com/ciokyyy/skill-exchange)** — University platform with a team of 15 (led development & DevOps): swipe matching, AI-scored recommendations, and realtime chat on Convex.
 
 ## Stack at a glance
 
-[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
 [![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![PandaCSS](https://api.iconify.design/logos:pandacss.svg?width=48&height=48)](https://panda-css.com)
 [![ArkUI](https://api.iconify.design/thesvg-color:ark-ui.svg?width=48&height=48)](https://ark-ui.com)
 
 <details>
   <summary>Certifications & achievements</summary>
 
+- Bachelor's thesis graded 10/10: real-time collaborative platform (CRDT co-editing, multi-provider LLM testing, encrypted BYOK)
 - Cambridge English — C1 certificate
-- 2nd place, French game-building competition (high school, team of 4) — Unity game, wrote all the game logic
-- Bachelor's thesis: real-time collaborative AI platform (CRDT co-editing, multi-provider LLM testing)
-- Open source: remult-partykit published to npm; contributor to the Ripple TS framework
-- Led a 15-person university development team (repository management, Coolify deployments)
+- Open source: published `remult-partykit` and `remult-reactive-store` to npm
+- Directed a 15-person engineering team (Agile workflows, PR code reviews, Docker / Coolify deployments)
+- 2nd place, French game-building competition (high school, team of 4) — Unity game logic
 
 </details>
 
@@ -59,3 +66,4 @@ Grew business income 20–30% through channel management, dynamic pricing, and w
 
 - Email: [ciocan.sebastian45@gmail.com](mailto:ciocan.sebastian45@gmail.com)
 - LinkedIn: [sebastian-ciocan](https://www.linkedin.com/in/sebastian-ciocan-a5aa5138b/)
+- GitHub: [ciokyyy](https://github.com/ciokyyy)
