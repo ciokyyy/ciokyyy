@@ -1,6 +1,6 @@
 # Sebastian Ciocan
 
-**Fullstack & React Developer** — TypeScript · React · Next.js · SvelteKit · Cloudflare · Romania
+**Fullstack & React Developer** — TypeScript · React · SolidJS · Next.js · SvelteKit · Cloudflare · Romania
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/sebastian-ciocan-a5aa5138b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square)](mailto:ciocan.sebastian45@gmail.com)
@@ -8,7 +8,7 @@
 
 ## About
 
-I build real-time, responsive web applications end to end — database schema, API layer, UI state, and edge deployments — using TypeScript, React (19/18), Next.js 16 (App Router), SvelteKit 5, and Cloudflare. I hold a BSc in Accounting & Computer Science (thesis graded 10/10), bridging software engineering with domain understanding of financial ledgers, auditing, and transactional integrity.
+I build real-time, responsive web applications end to end — database schema, API layer, UI state, and edge deployments — using TypeScript, React (19/18), SolidJS, Next.js 16 (App Router), TanStack Start, SvelteKit 5, and Cloudflare. I hold a BSc in Accounting & Computer Science (thesis graded 10/10), bridging software engineering with domain understanding of financial ledgers, auditing, and transactional integrity.
 
 Shipped and maintain the production platform for [Perla Brazilor](https://perlabrazilor.com) on Cloudflare. Previously led a 15-person university engineering team, governing repository standards, code reviews, and CI/CD deployments.
 
@@ -16,8 +16,8 @@ Shipped and maintain the production platform for [Perla Brazilor](https://perlab
 
 ## Skills & Technologies
 
-- **Frontend & UI:** React (19/18), Next.js 16 (App Router), SvelteKit 5 (runes), TanStack Query & Form, Tailwind CSS 4, Radix UI, Ark UI, Panda CSS, Shadcn UI, Monaco Editor, next-intl (i18n)
-- **Architecture & Realtime:** Reactive programming (stores, optimistic UI), OOP design, WebSockets, Cloudflare Durable Objects, PartyServer, Convex, CRDTs (Yjs collaborative editing)
+- **Frontend & UI:** React (19/18), SolidJS, Next.js 16 (App Router), TanStack Start, SvelteKit 5 (runes), TanStack Query & Form, Tailwind CSS 4, Radix UI, Ark UI, Panda CSS, Shadcn UI, Monaco Editor, next-intl (i18n)
+- **Architecture & Realtime:** Reactive programming (SolidJS fine-grained signals, stores, optimistic UI), OOP design, WebSockets, Cloudflare Durable Objects, PartyServer, Convex, CRDTs (Yjs collaborative editing)
 - **Backend & Auth:** Node.js, Hono, Remult, Express, Better Auth, Oslo / Arctic, RESTful API design & integration
 - **Data & Databases:** Cloudflare D1 (SQL), PostgreSQL, Drizzle ORM, Convex, Cloudflare KV
 - **Testing & Quality:** Vitest (120+ unit tests), Playwright (E2E), clean architecture, regression-free refactoring
@@ -45,6 +45,7 @@ Administered business financial operations (invoicing, accounts receivable, paym
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://solidjs.com)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
