@@ -35,10 +35,9 @@ Administered business financial operations (invoicing, accounts receivable, paym
 
 ## Selected projects
 
+- **[Stratum](https://github.com/Kobo-Scintilla/stratum)** — Agentic runtime and chat dashboard (Kobo Scintilla): SvelteKit 5 chat UI, Hono + Remult gateway over SQLite (WAL), pi-ai agent loop with tool round-trips, optional context compression, and git checkpoints with one-click rollback.
 - **[Licenta (Stratum Live)](https://github.com/ciokyyy/licenta)** — Real-time collaborative prompt-engineering platform: CRDT co-editing (Yjs), version branching, granular RBAC permissions, Monaco editor, and client-side encrypted BYOK key management (React 19 + Next.js 16 App Router + Convex + Playwright E2E). Thesis graded 10/10.
 - **[Perla Brazilor](https://perlabrazilor.com)** — Production multi-language guest-house web app: live room availability via 5stardesk REST API, direct booking funnel, TanStack Query/Form, and international SEO. Migrated from VPS to Cloudflare with sub-second load times and zero hosting overhead.
-- **[remult-reactive-store](https://github.com/ciokyyy/remult-reactive-store)** — Open-source reactive state management library for Remult: optimistic mutations, live query subscriptions, and 121 automated unit tests ensuring regression-free reliability.
-- **[remult-partykit](https://github.com/ciokyyy/remult-partykit)** — Open-source realtime engine published to npm: single-socket WebSocket transport, per-channel Durable Object authorization on Cloudflare, and Svelte 5 runes integration.
 - **[Skill Exchange](https://github.com/ciokyyy/skill-exchange)** — University platform with a team of 15 (led development & DevOps): swipe matching, AI-scored recommendations, and realtime chat on Convex.
 
 ## Stack at a glance
