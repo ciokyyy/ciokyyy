@@ -5,6 +5,15 @@
   </picture>
 </p>
 
+### Tech Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg" />
+    <img src="./assets/tech-stack-light.svg" alt="Tech Stack — Rust, TypeScript, Node.js, SQLite, Cloudflare Workers, Docker, Linux, Bash, React, Next.js, Svelte, Tailwind, Vite, Vitest, Playwright, Git" width="840" />
+  </picture>
+</p>
+
 ### Selected Projects
 
 | Project | Architecture & Stack | Scope |
